@@ -4,4 +4,5 @@
 /tools-java/nbproject/genfiles.properties
 /tools-java/dist/
 /tools-java/build/
+/tools-java/target/
 /tools-java/src/org/expath/tools/version.properties
